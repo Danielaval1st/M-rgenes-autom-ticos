@@ -1,0 +1,18 @@
+div{
+	height: 200px;
+	width: 200px;
+    padding: 20px;
+    border: 15px solid yellow;
+    font-family: Arial;
+}
+#En {
+    text-align: center;
+    
+  
+}
+#la{
+    text-align: left;
+    margin-left: 400px;
+    padding-top: 5px;
+}
+
